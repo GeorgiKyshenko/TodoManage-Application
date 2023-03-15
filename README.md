@@ -1,4 +1,4 @@
-# SPA with Spring MVC approach, which tends to be outdated.
+# Application with Spring MVC approach, which tends to be outdated.
 Tools used:
 - H2 DB
 - Thymeleaf
